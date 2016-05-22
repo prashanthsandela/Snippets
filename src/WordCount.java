@@ -5,7 +5,7 @@ import java.io.IOException;
 
 public class WordCount {
 	
-	private static String file_name = "D:\\generated_data.txt";
+	private static String file_name = "generated_data.txt";
 	private static String regEx_delimiter = "\n";
 	
 	public static void main(String args[]) throws IOException

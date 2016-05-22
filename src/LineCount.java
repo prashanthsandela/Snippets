@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 
 public class LineCount {
-	private static String file_name = "D:\\generated_data.txt";
+	private static String file_name = "generated_data.txt";
 	
 	public static void main(String args[]) throws IOException
 	{

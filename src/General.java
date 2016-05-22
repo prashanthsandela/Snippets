@@ -20,6 +20,9 @@ import java.util.HashMap;
 
 
 public class General {
+	public static void main(String args[]) {
+		System.out.println("Hello World");
+	}
 	public static void createFile(String filename, String string, Boolean append)
 	{
 		BufferedWriter bw = null;
